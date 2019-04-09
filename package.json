@@ -1,6 +1,7 @@
 {
   "name": "flag-memory-game",
   "version": "0.1.0",
+  "description": "Clicky memory game with flags of different countries around the world",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
